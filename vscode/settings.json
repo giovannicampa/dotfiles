@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.editor.wrapTabs": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "debug.inlineValues": "off",
+    "vsicons.dontShowNewVersionMessage": true,
+    "chat.commandCenter.enabled": false,
+    "window.titleBarStyle": "native",
+    "window.customTitleBarVisibility": "never",
+    "CodeGPT.apiKey": "OpenAI"
+}
